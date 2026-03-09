@@ -17,11 +17,15 @@ L’obiettivo è generare un **report chiaro dei clienti a rischio** e, tramite 
 
 ## Metriche
 ===============================
+
+
 Accuracy: 0.7946530147895335
 Precision: 0.6540697674418605
 Recall: 0.4817987152034261
 F1: 0.5548705302096177
 ROC AUC: 0.8338223610334766
+
+
 ===========REPORT==============
 
 ## Note
